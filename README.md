@@ -8,3 +8,4 @@
 ## [TCB](TCB.md)
 ## [PCB_Process_State](PCB_Process_State.md)
 ## [PCB_PC](PCB_PC.md)
+## [TCB_PC](TCB_PC.md)
